@@ -1,0 +1,10 @@
+﻿  Client.cpp
+  IPEndpoint.cpp
+  Network.cpp
+  Packet.cpp
+  PacketManager.cpp
+  Server.cpp
+  Socket.cpp
+  TCPConnection.cpp
+c:\users\nikita\desktop\task\networkingtutorial\pnet\pnet\socket.cpp(262): warning C4267: аргумент: преобразование из "size_t" в "u_short"; возможна потеря данных
+  PNet.vcxproj -> C:\Users\Nikita\Desktop\Task\NetworkingTutorial\PNet\Debug\PNet.lib
